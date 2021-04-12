@@ -1,0 +1,24 @@
+{
+  "name": "drafts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^89.0.0",
+    "element-is-visible": "^1.0.0",
+    "select": "^1.1.2",
+    "selector": "^2.0.19",
+    "selenium-webdriver": "^4.0.0-beta.2",
+    "ui-select": "^0.19.8",
+    "until": "^0.1.1",
+    "wait": "^0.4.2",
+    "wait-until": "^0.0.2",
+    "webdriver-rt": "^0.1.0"
+  }
+}
